@@ -26,10 +26,7 @@ This is a basic front-end e-commerce website designed to showcase products and p
 ![Screenshot 3](/screenshots/screenshot3.png) -->
 
 ## Contributing
-Contributions are not currently accepted as this is a basic template. Feel free to use it for your projects.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Contributions are accepted as this is a basic template. Feel free to use it for your projects.
 
 ## Contact
 For any inquiries or feedback, please contact [Mukunda Sony] at [rajsony1113@gmail.com].
