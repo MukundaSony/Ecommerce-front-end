@@ -14,7 +14,7 @@ This is a basic front-end e-commerce website designed to showcase products and p
 - CSS3
 - JavaScript
  
-## open url in [Markdown Guide](https://mukundasony.github.io/Ecommerce-front-end/)
+### open url in [Namma-Bazzar](https://mukundasony.github.io/Ecommerce-front-end/)
 
 ## Usage
 1. Clone the repository: `git clone [repository URL]`
@@ -32,4 +32,4 @@ Contributions are not currently accepted as this is a basic template. Feel free 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or feedback, please contact [Your Name] at [your.email@example.com].
+For any inquiries or feedback, please contact [Mukunda Sony] at [rajsony1113@gmail.com].
