@@ -14,7 +14,7 @@ This is a basic front-end e-commerce website designed to showcase products and p
 - CSS3
 - JavaScript
  
-## open url in 
+## open url in [Markdown Guide](https://mukundasony.github.io/Ecommerce-front-end/)
 
 ## Usage
 1. Clone the repository: `git clone [repository URL]`
