@@ -13,15 +13,17 @@ This is a basic front-end e-commerce website designed to showcase products and p
 - HTML5
 - CSS3
 - JavaScript
+ 
+## open url in 
 
 ## Usage
 1. Clone the repository: `git clone [repository URL]`
 2. Open the `index.html` file in your preferred web browser.
-
+<!--
 ## Screenshots
 ![Screenshot 1](/screenshots/screenshot1.png)
 ![Screenshot 2](/screenshots/screenshot2.png)
-![Screenshot 3](/screenshots/screenshot3.png)
+![Screenshot 3](/screenshots/screenshot3.png) -->
 
 ## Contributing
 Contributions are not currently accepted as this is a basic template. Feel free to use it for your projects.
